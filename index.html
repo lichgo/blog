@@ -1,0 +1,14 @@
+---
+layout: default
+title: Do things, tell people
+---
+<ul class="posts">
+{% for post in site.posts %}
+	<li>
+		<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+		<div class="content">
+			{{ post.content | split: '<!-- more -->' | first }} ...
+		</div>
+	</li>
+{% endfor %}
+</ul>
