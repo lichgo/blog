@@ -5,7 +5,8 @@ h1, h2 { font-family: Georgia, serif; font-weight: normal; }
 img { max-width: 100%; }
 
 /* layouts */
-#topbar { line-height: 300%; background-color: whitesmoke; border-bottom: 1px solid #e5e5e5; font-size: 0.8em; padding: 0 10%; }
+#topbar { background-color: whitesmoke; border-bottom: 1px solid #e5e5e5; font-size: 0.8em; padding: 0 10%; }
+#topbar nav { padding: 8px 0; }
 #topbar a { color: #404040; }
 #topbar span { padding: 0 5px; float: right; }
 #topbar span.sitename { float: none; font-weight: bold; font-size: 1.2em; padding-right: 50px; }
