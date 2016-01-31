@@ -3,7 +3,7 @@ a { color: #4b9cdf; text-decoration: none; -webkit-transition: color 500ms; -ms-
 h1 { margin-bottom: 35px; font-size: 2.5em; }
 h1, h2 { font-family: Georgia, serif; font-weight: normal; }
 img { max-width: 100%; }
-blockquote { margin-left: 20px !important; padding-left: 16px; border-left: 4px solid whitesmoke; color: #888; }
+blockquote { margin-left: 20px !important; padding-left: 16px; border-left: 4px solid whitesmoke; color: #999; }
 
 /* layouts */
 #topbar { background-color: whitesmoke; border-bottom: 1px solid #e5e5e5; font-size: 0.8em; padding: 0 10%; }
