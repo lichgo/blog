@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 又一年，又一春
+title: 又一年
 ---
 ![New year]({{ site.image_baseurl }}/2016spring.jpg)
 
